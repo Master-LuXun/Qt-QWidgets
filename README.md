@@ -1,6 +1,7 @@
-1.QtMusic 编译32位 再把dll文件复制到exe文件所在目录.
+1.QtMusic 基于ffmpeg、sdl解码音频流、视频流，音视频同步播放多种格式的视频文件，具体可参考ffplay源码，编译32位 再把dll文件复制到exe文件所在目录.
 
-2.Qtui_
+2.Qtui_FramelessWidget 自定义标题栏(无边框窗体)
+  特点:
   自动识别双击标题栏响应。
   无边框拉伸在windows下不抖动。
   在windows下具有移动到边缘半屏、移动到顶部全屏特性。
