@@ -72,7 +72,7 @@ void frmMain::initForm()
     QFont font;
     font.setPixelSize(25);
     ui->labTitle->setFont(font);
-    ui->labTitle->setText("鲁大师平台");
+    ui->labTitle->setText("不知道取啥名");
     this->setWindowTitle(ui->labTitle->text());
 
     ui->stackedWidget->setStyleSheet("QLabel{font:60px;}");
